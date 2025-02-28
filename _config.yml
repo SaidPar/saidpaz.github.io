@@ -23,10 +23,10 @@ email: thebigrokh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Another programming blog. Specializing in data access patterns, java
   and graph databases.
-domain: saidpaz.github.io
-baseurl: /saidpaz.github.io/ # the subpath of your site, e.g. /blog
+domain: saidpar.github.io
+baseurl: /blog/ # the subpath of your site, e.g. /blog
 url: https://saidpaz.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+twitter_username: SParirokh
 github_username:  saidpar
 
 # Build settings
