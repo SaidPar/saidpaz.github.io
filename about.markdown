@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Said Pazirandeh. Growing up, I had a healthy dose of Nintendo, Lego's and graphing calculators. My first academic love is math, but I found my calling when I was introduced to SQL and relational database platforms. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I currently work at Esri as a Principal Developor on the Knowledge team where we integrate graph analytics into the platform. The intersection of spatial & data access at scale has captured my attention since 2015.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love spending time in nature with my wife and dog. I'm an avid rock climber, mountain biker, back country skier & paraglider.  
