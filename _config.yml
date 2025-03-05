@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and graph databases.
 domain: saidpar.github.io
 baseurl: /blog/ # the subpath of your site, e.g. /blog
-url: https://saidpaz.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://saidpar.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SParirokh
 github_username:  saidpar
 
