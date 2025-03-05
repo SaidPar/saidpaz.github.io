@@ -29,6 +29,14 @@ url: https://saidpaz.github.io # the base hostname & protocol for your site, e.g
 twitter_username: SParirokh
 github_username:  saidpar
 
+comments:
+  # Global switch for the post-comment system. Keeping it empty means disabled.
+  provider: utterances # [disqus | utterances | giscus]
+  # utterances settings › https://utteranc.es/
+  utterances:
+    repo: saidpar/blog # <gh-username>/<repo>
+    issue_term: url # < url | pathname | title | ...>
+
 # Build settings
 theme: minima
 plugins:
